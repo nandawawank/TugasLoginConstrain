@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/TugasLoginConstrain/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/nandawk/AndroidStudioProjects/TugasLoginConstrain/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/TugasLoginConstrain/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/TugasLoginConstrain/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/TugasLoginConstrain/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/root/AndroidStudioProjects/TugasLoginConstrain/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/TugasLoginConstrain/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/nandawk/AndroidStudioProjects/TugasLoginConstrain/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
